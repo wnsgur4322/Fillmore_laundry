@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/machines": {
+      "name": "/machines",
+      "lambdaFunction": "fillmorelaundry1706b5a0",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

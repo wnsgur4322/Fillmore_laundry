@@ -1,0 +1,27 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fillmorelaundry-dev-204407-authRole",
+      "UnauthRoleArn": "arn:aws:iam::486023045902:role/amplify-fillmorelaundry-dev-204407-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::486023045902:role/amplify-fillmorelaundry-dev-204407-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-fillmorelaundry-dev-204407-deployment",
+      "UnauthRoleName": "amplify-fillmorelaundry-dev-204407-unauthRole",
+      "StackName": "amplify-fillmorelaundry-dev-204407",
+      "StackId": "arn:aws:cloudformation:us-west-2:486023045902:stack/amplify-fillmorelaundry-dev-204407/1ec67c90-7299-11ec-b77d-06703bfd6d7b",
+      "AmplifyAppId": "d2h9yxhhvfktdf"
+    },
+    "categories": {
+      "function": {
+        "fillmorelaundryf01e0ea2": {
+          "deploymentBucketName": "amplify-fillmorelaundry-dev-204407-deployment",
+          "s3Key": "amplify-builds/fillmorelaundryf01e0ea2-67496e31613470483231-build.zip"
+        },
+        "fillmorelaundry1706b5a0": {
+          "deploymentBucketName": "amplify-fillmorelaundry-dev-204407-deployment",
+          "s3Key": "amplify-builds/fillmorelaundry1706b5a0-4d614a54716669794541-build.zip"
+        }
+      }
+    }
+  }
+}
